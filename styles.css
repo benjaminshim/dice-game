@@ -1,0 +1,30 @@
+h1{
+  font-family: 'Bree Serif', serif;
+  font-size: 8rem;
+  color: #222831;
+}
+
+p{
+  font-family: 'Bree Serif', serif;
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+  color: #222831;
+}
+
+body{
+  background-color: #eeeeee;
+}
+
+.dice{
+  display: inline-block;
+  width: 20%;
+  height: 30%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.container{
+  padding-top: 2%;
+  text-align: center;
+  margin: auto;
+}
